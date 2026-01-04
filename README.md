@@ -1,27 +1,27 @@
-# ACM 备赛笔记 📚
+# ACM Competition Preparation Notes 📚
 
-本仓库整理了本人在准备 **ACM 竞赛、蓝桥杯、天梯赛** 等各类算法竞赛过程中的笔记与学习资料，涵盖了从基础到进阶的各类算法与数据结构专题，来源丰富，文档翔实，便于系统化复习与查漏补缺。
+This repository organizes my notes and learning materials accumulated during the preparation for various algorithm competitions such as **ACM, LanQiao Cup, Ladder Competition**, etc. It covers various algorithm and data structure topics from fundamental to advanced levels, with diverse sources and comprehensive documentation, facilitating systematic review and identifying knowledge gaps.
 
-## 📂 目录结构
+## 📂 Directory Structure
 
 ```
 .
-├── 算法笔记.md               # 综合类算法学习笔记
-├── 蓝桥杯备赛笔记.md         # 针对蓝桥杯的备赛总结
-├── 天梯赛备赛笔记.md         # 针对天梯赛的专题复习
-├── 其它/                     # 构造、随机算法、答题技巧等专题讲座
-├── 图论/                     # 图论、网络流、树分治等专题资料
-├── 数学/                     # 数论、组合、概率、博弈等数学专题
-├── 题解/                     # 历年 NOIP 题目分析与推荐题单
-├── 字符串/                   # 后缀数组、自动机、HASH等字符串算法
-├── 动态规划/                 # 入门、状态压缩、树形DP等各类DP技巧
-├── 基础算法/                 # 搜索、分治、贪心、模拟、复杂度等
-├── 数据结构/                 # 线段树、树剖、莫队、平衡树等数据结构
-└── 计算几何/                 # 几何基础、半平面交、叉积等几何内容
+├── 算法笔记.md               # Comprehensive algorithm learning notes
+├── 蓝桥杯备赛笔记.md         # Preparation summary for LanQiao Cup
+├── 天梯赛备赛笔记.md         # Topic review for Ladder Competition
+├── 其它/                     # Constructive algorithms, randomization, problem-solving techniques, and other special topics
+├── 图论/                     # Graph theory, network flow, tree decomposition, and related topics
+├── 数学/                     # Number theory, combinatorics, probability, game theory, and other math topics
+├── 题解/                     # Analysis of past NOIP problems and recommended problem sets
+├── 字符串/                   # Suffix arrays, automata, hashing, and other string algorithms
+├── 动态规划/                 # Introduction, state compression, tree DP, and various DP techniques
+├── 基础算法/                 # Search, divide-and-conquer, greedy, simulation, complexity analysis, etc.
+├── 数据结构/                 # Segment trees, heavy-light decomposition, Mo's algorithm, balanced trees, etc.
+└── 计算几何/                 # Geometry fundamentals, half-plane intersection, cross product, etc.
 ```
 
-## 📝 文件类型说明
+## 📝 File Type Description
 
-- `.ppt` / `.pptx`：主要为老师或学长学姐的讲座或培训课件
-- `.pdf`：多为整理后的笔记、算法选讲、专题教程
-- `.md`：本人手写整理的核心笔记，推荐重点阅读
+- `.ppt` / `.pptx`: Primarily lecture or training slides from teachers and senior students
+- `.pdf`: Mostly organized notes, algorithm highlights, and topic tutorials
+- `.md`: Core notes personally handwritten and organized, recommended for focused reading
